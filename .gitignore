@@ -1,7 +1,7 @@
 # Custom
 scratch
 *.ini
-*.yaml
+parsed_data/
 .idea
 
 # Byte-compiled / optimized / DLL files

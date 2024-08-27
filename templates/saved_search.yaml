@@ -1,0 +1,14 @@
+name: {{ name }}
+id: {{ id }}
+author: {{ author }}
+updated: {{ updated }}
+app: {{ app }}
+type: {{ type }}
+disabled: {{ disabled }}
+description: {{ description }}
+search: |
+  {{ search }}
+schedule:
+  cron: {{ cron_schedule }}
+  earliest_time: {{ earliest_time }}
+  latest_time: {{ latest_time }}
